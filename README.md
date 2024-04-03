@@ -21,7 +21,8 @@ This dataset was obtained from [Climate change Indicators](https://www.kaggle.co
 <img width="1060" alt="Screenshot 2024-04-03 at 16 31 23" src="https://github.com/chilinh428/Climate-Change-Dashboard/assets/165115957/5ffb24fd-2eed-453a-a28b-fe4753485270">
 
 > After formatted
-<img width="1059" alt="Screenshot 2024-04-03 at 16 34 02" src="https://github.com/chilinh428/Climate-Change-Dashboard/assets/165115957/ab1bbe4d-e7d0-4229-acdc-b050eeac1816">
+<img width="1057" alt="Screenshot 2024-04-03 at 17 36 07" src="https://github.com/chilinh428/Climate-Change-Dashboard/assets/165115957/a621198d-af41-4f1c-be4b-a708d3faf8d8">
+
 
 04. Import to Tableau and create Pivot
 <img width="928" alt="Screenshot 2024-04-03 at 16 37 25" src="https://github.com/chilinh428/Climate-Change-Dashboard/assets/165115957/07439d0a-ab87-47d1-8d4d-4642c584de56">
